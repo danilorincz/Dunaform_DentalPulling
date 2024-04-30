@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/danil/Documents/Arduino/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "",
+            "compilerArgs": [
+                "C:/Users/danil/Documents/Arduino/**"
+            ]
+        }
+    ],
+    "version": 4
+}

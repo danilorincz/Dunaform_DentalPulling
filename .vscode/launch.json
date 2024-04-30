@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Arduino",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/dunaform_machineRepair/dunaform_machineRepair.ino",
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "arduino:upload",
+
+            "miDebuggerPath": "C:/Arduino_debugger_GNU/gdb-14.2.tar.xz.sig",
+
+            "targetArchitecture": "arm",
+
+        }
+    ]
+}
